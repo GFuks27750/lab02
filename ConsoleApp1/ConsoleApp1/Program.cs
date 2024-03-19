@@ -10,3 +10,8 @@ if (true)
 {
     Console.WriteLine(true);
 }
+
+if (false)
+{
+    Console.WriteLine("This will not be printed");
+}
